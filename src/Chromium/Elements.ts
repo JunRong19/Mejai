@@ -1,0 +1,13 @@
+export const ROOT                        = "#rcp-fe-viewport-root"
+export const HOME_ACTIVITY_CONTENT       = ".activity-center-application"
+export const HOME_MAIN_VIEW              = ".rcp-fe-viewport-main > .screen-root";
+export const HOME_SIDEBAR                = ".rcp-fe-viewport-sidebar"
+export const HOME_SIDEBAR_SOCIALS        = ".lol-social-lower-pane-container"
+export const HOME_SIDEBAR_SOCIALS_NAME   = ".member-name"
+export const HOME_SIDEBAR_SOCIALS_STATUS = ".status-message"
+export const HOME_SIDEBAR_IDENTITY       = ".identity-and-parties"
+export const HOME_SIDEBAR_BOTTOM_PANEL   = ".alpha-version-panel"
+export const HOME_VERSION_PANEL          = ".version-bar-container"
+export const HOME_LOR_LINK               = ".deep-links-promo"
+export const HOME_TFT_BTN                = ".main-navigation-menu-item.menu_item_navbar_tft"
+export const HOME_LEAGUE_BTN             = ".main-navigation-menu-item.menu_item_navbar_league"

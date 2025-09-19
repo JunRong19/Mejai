@@ -1,0 +1,26 @@
+{
+    "name": "mejai",
+    "description": "TBD",
+    "private": true,
+    "version": "1.0.0",
+    "license": "WTFPL",
+    "type": "module",
+    "config": {
+        "penguPath": "C:\\Program Files\\Pengu Loader"
+    },
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build"
+    },
+    "devDependencies": {
+        "@types/node": "^20.4.7",
+        "esbuild": "^0.25.9",
+        "typescript": "^5.9.2",
+        "vite": "^7.1.5",
+        "vite-plugin-mkcert": "^1.16.0",
+        "vite-tsconfig-paths": "^5.1.4"
+    },
+    "dependencies": {
+        "audiomotion-analyzer": "^4.5.1"
+    }
+}
